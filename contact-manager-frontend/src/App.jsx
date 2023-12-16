@@ -1,7 +1,7 @@
-// src/App.jsx
+
 import { useState, useEffect } from 'react';
 import axios from 'axios';
-import './App.css'; // Import the Tailwind CSS file
+import './App.css';
 
 function App() {
   const [contacts, setContacts] = useState([]);
