@@ -16,3 +16,4 @@ A simple web application to manage a list of contacts. The application allows us
 - Styling: Tailwind CSS
 
 ## Getting Started
+https://zaheer-contact-app.netlify.app/
